@@ -1,5 +1,5 @@
 var index = require("./index.js")
-console.log('hit')
+
 if (index.name === "Susan") {
     console.log("The name is correct")
 } else {
