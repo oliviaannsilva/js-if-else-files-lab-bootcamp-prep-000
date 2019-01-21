@@ -7,7 +7,7 @@ if (name === "Susan"){
   console.log("Expected:Susan,Received:"+index.name)
 }
 
-if (index.height)===70){
+if (index.height);===70){
   console.log
 
 // Don't worry about this
