@@ -10,6 +10,7 @@ if (name === "Susan"){
 if (index.height)===70){
   console.log("The height is correct")
 } else {
+  
 // Don't worry about this
 module.exports = { name, height
 }
