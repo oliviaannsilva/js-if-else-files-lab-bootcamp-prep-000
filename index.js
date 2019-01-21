@@ -7,6 +7,8 @@ if (name === "Susan"){
   console.log("Expected:Susan,Received:"+index.name)
 }
 
+if ()
+
 // Don't worry about this
 module.exports = { name, height
 }
